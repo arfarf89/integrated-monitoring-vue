@@ -5,7 +5,7 @@
 
 ## Usage
 
-**npm 6 버전으로 scaffold 했고, npm 4+ 가 권장사항입니다.**
+**node 6.x 버전으로 scaffold 했고, node 4+ 가 권장사항입니다.**
 
 ``` bash
 $ git clone https://github.com/arfarf89/integrated-monitoring-vue.git
