@@ -18,9 +18,9 @@
 
       <el-submenu index="/business">
         <template slot="title">업체관리</template>
-        <el-menu-item index="/business/partner">요금분배관리</el-menu-item>
-        <el-menu-item index="/business/agent">거리별요금관리</el-menu-item>
-        <el-menu-item index="/business/company">할증관리</el-menu-item>
+        <el-menu-item index="/business/partner">파트너관리</el-menu-item>
+        <el-menu-item index="/business/agent">라이더관리</el-menu-item>
+        <el-menu-item index="/business/company">본사/상점관리</el-menu-item>
       </el-submenu>
 
       <el-submenu index="/monitoring">
