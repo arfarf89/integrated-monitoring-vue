@@ -31,3 +31,9 @@ $ npm run dev
   - CSS across all components extracted into a single file and minified with [cssnano](https://github.com/ben-eb/cssnano).
   - All static assets compiled with version hashes for efficient long-term caching, and a production `index.html` is auto-generated with proper URLs to these generated assets.
   - Use `npm run build --report`to build with bundle size analytics.
+
+## Notes
+- [ElementUI](http://element.eleme.io/#/en-US/component/installation) UI Component 라이브러리 이용
+- [Vuex](http://vuex.vuejs.org/en/intro.html) 추가 필요
+- [Axios](https://github.com/mzabriskie/axios) for async calls 추가 필요
+- Sass for styles
